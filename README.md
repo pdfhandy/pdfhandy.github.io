@@ -1,7 +1,7 @@
 UnitePDF API - .Net Library
 A library in VB.Net or C# for UnitePDF API. You can sign up for a developer account <a href="https://www.unitepdf.com/api-developer.aspx">here.</a>
 
-Develop and build apps using PDF processing tasks like Compress PDF, Merge PDF, Split PDF, convert Office documents to PDF, PDF to JPG, Images to PDF, add Page Numbers, Rotate PDF, Decrypt Word document, Watermark PDF. Our API gives you the complete access to all our applications.
+Develop and build apps using PDF processing tasks like Split PDF, Merge PDF, Compress PDF, Convert Office documents to PDF, PDF to JPG, Merge JPG to PDF, add Page Numbers, Rotate PDF, Decrypt Word document, Watermark PDF. Our API gives you the complete access to all our applications.
 
 ## **Requirements**
 ```
